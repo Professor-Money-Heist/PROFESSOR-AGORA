@@ -3,7 +3,7 @@
 <p align='Middle'><a href='https://t.me/Prof_Agora'><img src='https://te.legra.ph/file/6c14ed70a84ea325d82c1.jpg' width='750"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=3D-Filmmaker+and+Advanced-Cartoon-Designer+From+Karnataka%E2%9C%8C%EF%B8%8F;FCP10%2C+3DMAX%2C+photoshop%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=3D-Filmmaker+from+karnataka%E2%9C%8C%EF%B8%8F;FCP10%2C+3DMAX%2C+photoshop%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
