@@ -27,7 +27,7 @@
 <h4 align="center"><b>My GitHub Stats 🔥</b></h4>
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Agora&show_icons=true&theme=radical&custom_title=Agora's+Github+Stats&include_all_commits=true&count_private=true)](https://github.com/SIR-AGORA)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Agora&show_icons=true&theme=radical&custom_title=Agora's+Github+Stats&include_all_commits=true&count_private=true)](https://github.com/Professor-Money-Heist/Ptofessor-Money-Heist)
 
 <!--
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mr)](https://github.com/SIR-AGORA)
