@@ -18,14 +18,6 @@
 # 
 <h1 align="center">🖤 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ</h1>
 
-# ᴀʙᴏᴜᴛ ᴍᴇ 
-
-```python
-Name = "ᴘʀᴏғᴇssᴏʀ ᴀɢᴏʀᴀ"
-Age = "22"
-Country = "🇮🇳ɪɴᴅɪᴀ"
-```
-
 [![telegram badge](https://img.shields.io/badge/@agoraswamy_professor-30302f?style=for-the-badge&logo=telegram)](https://t.me/agoraswamy_professor)
 <p align="left"> <img src="https://t.me/agora_spam_official/ghpvc/?username=Agora&label=Profile%20Views&red=red&style=flat-square" alt="Agora Professor" /> </p>
 
